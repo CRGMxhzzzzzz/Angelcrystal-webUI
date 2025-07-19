@@ -1,11 +1,11 @@
-h1 align="center">Angel Crystal</h1>
+<h1 align="center">Angel Crystal</h1>
 
 See more details
 [wiki](https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/wiki)
 
 ### Language
 
-中文 | [English](./README.en.md)
+[中文](./README.md) | English
 
 ----
 
