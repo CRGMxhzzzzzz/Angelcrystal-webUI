@@ -23,7 +23,7 @@
 * 蒂壳 [官网](https://angelcrystal-code.mysxl.cn)
 * 反馈和交流 [咖啡厅](https://pd.qq.com/s/a6g5xr5bg?b=5)
 * 储存库 [云盘](https://www.123865.com/s/YNr5Vv-nMebd)
-* 作者 [QQ](https://qm.qq.com/q/vub2t6kOKO)
+* 作者 [QQ](https://qm.qq.com/q/lXDyWCMaOs)
 
 ----
 
