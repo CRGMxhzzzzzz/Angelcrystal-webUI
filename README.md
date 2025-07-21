@@ -10,7 +10,7 @@
 
 ### 介绍
 
->这个网页项目仅提供最初始的代码，此代码内留有‘功能库’可留做功能拓展，该初始代码并不完善，望以后多多理解，详情可见本项目wiki
+>这个分支是AngelCrystal系列的设计标准及语言，为什么叫AGUI？因为没名字起了，为了让之后的UI统一设计语言，同时我也会发布基于xml的(Android)界面[main.xml]已发布这个UI设计的网页端以及移动端
 
 另外可克隆本仓库做出自己的版本并发布！！！
 
@@ -24,12 +24,13 @@
 * 反馈 [咖啡厅](https://pd.qq.com/s/a6g5xr5bg?b=5)
 * 储存库 [云盘](https://www.123865.com/s/YNr5Vv-nMebd)
 * 作者 [QQ](https://qm.qq.com/q/lXDyWCMaOs)
+* 主要分支 [open_v1_main](https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/)
 
 ----
 
-### 安装教程
+### 获取代码
 
-会需要一个浏览器，然后获取构建代码
+需要一个浏览器，然后
 
     构建代码：https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/tree/33a48a2fc72899ebf94b3c74a9f2faa7a8dbdb2e/HTML/build
-    ACGT：不公布
+    AGUI：
