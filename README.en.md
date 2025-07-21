@@ -11,7 +11,7 @@ See more details
 
 ### Introduction
 
->This web project only provides the initial code, this code has a 'function library' for function expansion, the initial code is not perfect, I hope to understand more in the future, details can be found in the project wiki
+> this branch is the design standard and language of the AngelCrystal series, why is it called AGUI? Because there is no name, in order to unify the design language of the UI in the future, I will also release the xml-based (Android) interface [main.xml] has released this UI design for the web and mobile terminals
 
 In addition, you can clone this repository to make your own version and publish it!!
 
@@ -25,6 +25,7 @@ Entrance：
 * Feedback [Cafe](https://pd.qq.com/s/a6g5xr5bg?b=5)
 * Repository [Cloud Disk](https://www.123865.com/s/YNr5Vv-nMebd)
 * Author [QQ](https://qm.qq.com/q/lXDyWCMaOs)
+* main [open_v1_main](https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/)
 
 ----
 
@@ -33,4 +34,4 @@ Entrance：
 You'll need a browser and then get the build code
 
     Build：https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/tree/33a48a2fc72899ebf94b3c74a9f2faa7a8dbdb2e/HTML/build
-    ACGT：Not publicized
+    AGUI：
