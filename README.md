@@ -1,4 +1,4 @@
-<h1 align="center">AGUI：读老子</h1>
+<h1 align="center">AGUI设计语言</h1>
 
 更多详情见[wiki](https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/wiki)
 
