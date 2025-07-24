@@ -1,5 +1,8 @@
 <h1 align="center">Angel Crystal</h1>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/CRGMxhzzzzzz/Angelcrystal-webUI?style=social)](https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/stargazers)
+
 See more details
 [wiki](https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/wiki)
 
@@ -17,8 +20,6 @@ In addition, you can clone this repository to make your own version and publish 
 
 ### About
 
-Disclaimer: FireTide has ceased maintenance, please do not mention the project to the developers, thank you
-
 Entrance：
 
 * Dike [official website](https://angelcrystal-code.mysxl.cn)
@@ -34,3 +35,9 @@ You'll need a browser and then get the build code
 
     Build：https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/tree/33a48a2fc72899ebf94b3c74a9f2faa7a8dbdb2e/HTML/build
     ACGT：Not publicized
+
+---
+
+Disclaimer: FireTide has ceased maintenance, please do not mention the project to the developers, thank you
+
+Feel free to come back anytime! ⭐ Your **Star** is the motivation for my updates~
