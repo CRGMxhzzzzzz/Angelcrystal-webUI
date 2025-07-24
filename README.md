@@ -19,8 +19,6 @@
 
 ### 关于
 
-声明：FireTide已经停止维护，请不要向开发者提及该项目，谢谢
-
 入口：
 
 * 蒂壳 [官网](https://angelcrystal-code.mysxl.cn)
@@ -36,3 +34,9 @@
 
     构建代码：https://github.com/CRGMxhzzzzzz/Angelcrystal-webUI/tree/33a48a2fc72899ebf94b3c74a9f2faa7a8dbdb2e/HTML/build
     ACGT：不公布
+
+---
+
+声明：FireTide已经停止维护，请不要向开发者提及该项目，谢谢
+
+随时欢迎再来！您的 ⭐**Star** 是我更新的动力~
